@@ -1,0 +1,4 @@
+[submodule "ljungbladsblog/public"]
+	path = ljungbladsblog/public
+	url = https://github.com/ljungbladsolutions/ljungbladsolutions.github.io.git
+	branch = main
