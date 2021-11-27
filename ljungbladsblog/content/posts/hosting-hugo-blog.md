@@ -2,6 +2,10 @@
 title: "Create and host a blog using Hugo"
 date: 2021-11-08T08:09:22+02:00
 draft: false
+defaultTheme: light
+categories: [development]
+tags: [blogging,hugo]
+ShowToc: true
 ---
 
 Prerequisites: Some knowledge about GitHub is good. 
@@ -173,11 +177,16 @@ To push the changes in the public folder after building hugo, go to the `public`
 ```
 ### Part 12. View the published site at github.io
 Now your site should have been published. Enter your github.io repository and go to Settings, find the Pages settings.
-https://github.com/ljungbladsolutions/ljungbladsolutions.github.io/settings/pages  
+https://github.com/ljungbladsolutions/ljungbladsolutions.github.io/settings/pages    
 https://github.com/<username>/<username>.github.io/settings/pages  
 
 This is where my this blog is found.  
 [https://ljungbladsolutions.github.io/](https://ljungbladsolutions.github.io)
+
+
+### Happy blogging, go on and make your blog a bit nicer!  
+And now when it's up and running let's go on and add some content like, more, posts, table of contents, a menu, search page, etc.  
+Find my post about Hugo editing [here](/posts/editing-hugo-blog)
 
 
 

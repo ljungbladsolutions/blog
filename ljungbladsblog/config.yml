@@ -1,4 +1,70 @@
 baseURL: https://ljungbladsolutions.github.io/
 languageCode: en-us
-title: Christopher's Blog
+title: Ljungblad Solutions
 theme: PaperMod5
+defaultTheme: light
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      title: About me
+      url: /about/
+      weight: -100
+    - identifier: archives
+      name: Archive
+      title: blog section
+      url: /archives/
+      weight: -300
+    - identifier: Categories
+      name: Categories
+      title: Categories
+      url: /categories/
+      weight: -200
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "A blog about Software development, architecture and other things."
+  author: Christopher Ljungblad
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true #Show table of content
+  # comments: false
+  images: ["papermod-cover.png"]
+
+  profileMode:
+    enabled: true
+    title: Christopher Ljungblad
+    imageUrl: "/images/christopher.png"
+    imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Archive
+        url: archives
+      - name: Categories
+        url: categories
+
+  homeInfoParams:
+    Title: "Christopher Ljungblad"
+    Content:
+  socialIcons:
+    - name: github
+      url: "https://github.com/ljungbladsolutions/"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/ljungblad/"
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+
+
+
