@@ -2,6 +2,7 @@
 title: "About"
 date: 2021-11-25T08:09:22+02:00
 draft: false
+defaultTheme: light
 ShowShareButtons: false
 ShowToc: false
 ---
