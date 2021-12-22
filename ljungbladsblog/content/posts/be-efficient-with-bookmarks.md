@@ -56,4 +56,14 @@ Add the `chrome://settings/searchEngines` url as a keyword.
 3. Write `na` in omnibox and press Enter
 4. `SearchEngine` will open up, and you can press `Add` button, paste the link and add your alias for that link, and you are done.
 
+### Some examples where I use aliases
+1. Github
+2. JIRA
+3. Confluence
+4. Google maps
+5. Bookmarks
+6. Pricerunner  
 
+For example wit this I only need to print:
+
+jira 

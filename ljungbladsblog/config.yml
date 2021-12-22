@@ -43,7 +43,7 @@ params:
   profileMode:
     enabled: true
     title: Christopher Ljungblad
-    imageUrl: "/images/christopher.png"
+    imageUrl: "/images/christopher-tiny.png"
     imageTitle: my image
     # imageWidth: 120
     # imageHeight: 120

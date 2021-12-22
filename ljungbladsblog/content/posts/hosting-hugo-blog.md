@@ -28,7 +28,7 @@ git clone https://github.com/ljungbladsolutions/blog.git
 ```
 
 ### Part 2. Create new Hugo site
-Inside `blog directory, create a new Hugo site by typing:
+Inside `blog` directory, create a new Hugo site by typing:
 ```
 hugo new site ljungbladsblog -f yml
 ```

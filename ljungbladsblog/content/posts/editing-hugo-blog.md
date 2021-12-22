@@ -6,10 +6,16 @@ categories: [development]
 tags: [blogging,hugo]
 ShowToc: true
 ---
-
-## Setup Hugo blog 
+## Setup Hugo blog
 This post will give an intro how to get started editing a Hugo Site.  
 If you have not already Hugo setup, go to my previous post found [here](/posts/hosting-hugo-blog)
+
+## Frequently used commands to run a Hugo site
+- `hugo server` To run hugo locally.  
+- `hugo -t PaperMod5` To build changes to the public folder.  
+- Commit and push changes of content.
+- Commit and push `public` folder to deploy changes.
+
 
 ### Run Hugo locally
 Go to your blog directory, where the content is and run:  
