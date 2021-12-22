@@ -64,6 +64,10 @@ Add the `chrome://settings/searchEngines` url as a keyword.
 5. Bookmarks
 6. Pricerunner  
 
-For example wit this I only need to print:
-
-jira 
+For example, now I only have to print this in the search box to quickly get my result:  
+ 
+```
+jira ticket-123  (will 
+maps stockholm  
+price bicycle
+```

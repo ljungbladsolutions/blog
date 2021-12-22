@@ -31,7 +31,8 @@ Here is an example where I compressed an image 72%, but using `tinyjpg`
 ![Tinyjpg example](/images/google-performance-tinyjbp-ex.png)
 
 ### View the result 
-Change to the compressed images and redo the measuring using the [Google Page Speed Insight](https://pagespeed.web.dev/) 
+Change to the compressed images and redo the measuring using the [Google Page Speed Insight](https://pagespeed.web.dev/). 
+My blog was a pretty bad example, since it already had 100% though :). 
 
 
 
