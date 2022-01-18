@@ -61,10 +61,18 @@ params:
       url: "https://github.com/ljungbladsolutions/"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/ljungblad/"
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/images/favicon_io/favicon.ico"
+    favicon16x16: "/images/favicon_io/favicon-16x16.png"
+    favicon32x32: "/images/favicon_io/favicon-16x16.png"
+    apple_touch_icon: "/images/favicon_io/apple-touch-icon-png"
 
 taxonomies:
   tag: "tags"
   category: "categories"
+
 
 
 
