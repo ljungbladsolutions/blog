@@ -67,7 +67,7 @@ Add the `chrome://settings/searchEngines` url as a keyword.
 For example, now I only have to print this in the search box to quickly get my result:  
  
 ```
-jira ticket-123  (will 
+jira ticket-123
 maps stockholm  
 price bicycle
 ```
