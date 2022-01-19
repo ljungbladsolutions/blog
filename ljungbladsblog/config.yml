@@ -43,7 +43,8 @@ params:
   profileMode:
     enabled: true
     title: Christopher Ljungblad
-    imageUrl: "/images/pencil-square.svg"
+   # imageUrl: "/images/pencil-square.svg"
+    imageUrl: "/images/favicon_io/android-chrome-192x192.png"
     imageTitle: my image
     # imageWidth: 120
     # imageHeight: 120
