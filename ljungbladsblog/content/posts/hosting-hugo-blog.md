@@ -18,6 +18,12 @@ Hugo can be cloned from GitHub and easily run at your local machine to start wit
 To have your site deployed on a static hosting service like [Netlify](https://www.netlify.com/) or [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages). 
 I decided to go for GitHub pages. Let's do this:
 
+### Install hugo
+Can be done in many ways as explained [here](https://gohugo.io/getting-started/installing/), I did it with brew, like this:  
+```
+brew install hugo
+```
+
 ### Part 1. Create a github repository for the blog
 
 Create a repository called `blog` (for example) and make it public.
